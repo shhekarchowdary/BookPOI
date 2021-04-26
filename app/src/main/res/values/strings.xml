@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Book POI</string>
+    <string name="pleaseLogin">Please Login</string>
+    <string name="login">Login</string>
+    <string name="enterUserName">Enter User Name</string>
+    <string name="enterPassword">Enter Password</string>
+    <string name="choose">Choose Country</string>
+    <string name="noOfTickets">Tickets</string>
+    <string name="enterNoOdTickets">Enter No of Tickets</string>
+    <string name="calculate">Calculate</string>
+    <string name="total">Total</string>
+</resources>
