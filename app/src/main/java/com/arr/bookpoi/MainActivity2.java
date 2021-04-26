@@ -45,6 +45,7 @@ public class MainActivity2 extends AppCompatActivity {
         mListView = findViewById(R.id.listView);
         mCalculate = findViewById(R.id.button);
         mSpinner = findViewById(R.id.spnCountry);
+        mTotal.setText("");
 
         loggedUser = MainActivity.userLogged;
         fillData();
